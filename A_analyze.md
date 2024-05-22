@@ -20,4 +20,7 @@
 1. 在 `p[i]` 倍數處有解
 2. 在"有解處+`p[i]` 倍數處"有解
 3. 若判斷 `dp[x]` 有解，但 `dp[x]` 已經存有解，設 `dp[x]=-1` 
-4. 若 `p[i]` 本身有多種解，則對所有已經有解的 `dp[i]`， `dp[i+p[i]]` 也有多種解。 
+4. 若 `p[i]` 本身有多種解，則對所有已經有解的 `dp[i]`， `dp[i+p[i]]` 也有多種解。
+
+# Reference
+- Ref sol: https://vjudge.net/solution/snapshot/36510231
