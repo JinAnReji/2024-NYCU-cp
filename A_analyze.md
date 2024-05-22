@@ -24,3 +24,4 @@
 
 # Reference
 - Ref sol: https://vjudge.net/solution/snapshot/36510231
+- Money Changing Problem: https://web.ntnu.edu.tw/~algo/KnapsackProblem.html
