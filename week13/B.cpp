@@ -3,6 +3,7 @@
 #include<algorithm>
 using namespace std;
 
+// still working
 int main(){
     int s; cin>>s;
     vector<int> d(s),c(s),f(s),u(s);
